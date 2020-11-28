@@ -1,4 +1,4 @@
-# MM1_SRAM_64k_A
+# MM1_EEPROM_32k_A
 
 Copyright (C) 2020 Guillaume Guillet\
 Licensed under CERN-OHL-W v2 or later
@@ -24,14 +24,14 @@ for applicable conditions.
 Made with [Kicad](https://kicad-pcb.org/)
 
 ## Description
-A SRAM card with 64kBytes of capacity and compatible with [MM1 standard](https://github.com/JonathSpirit/GComputer_standard).
+A EEPROM card with 32kBytes of capacity and compatible with [MM1 standard](https://github.com/JonathSpirit/GComputer_standard).
 
-<img src="images/MM1_SRAM_64k_A_3D_TOP.png" alt="MM1_SRAM_64k_A_3D_TOP_image" width="400"/> <img src="images/MM1_SRAM_64k_A_3D_BOT.png" alt="MM1_SRAM_64k_A_3D_BOT_image" width="400"/>
+<img src="images/MM1_EEPROM_32k_A_3D_TOP.png" alt="MM1_EEPROM_32k_A_3D_TOP_image" width="400"/> <img src="images/MM1_EEPROM_32k_A_3D_BOT.png" alt="MM1_EEPROM_32k_A_3D_BOT_image" width="400"/>
 
 ## Status
 
 Version :
-> MM1_SRAM_64k_A revision 1
+> MM1_EEPROM_32k_A revision 1
 
 Status :
 > Not tested !
