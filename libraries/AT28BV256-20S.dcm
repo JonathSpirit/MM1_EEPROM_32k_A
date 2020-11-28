@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT28BV256-20S
+D 256K (32K x 8) Battery-Voltage Parallel EEPROMs
+K EEPROM MEMORY
+F https://www.mouser.ch/datasheet/2/268/doc0273-1115082.pdf
+$ENDCMP
+#
+#End Doc Library
