@@ -21,7 +21,7 @@ for applicable conditions.
 </tr>
 </table>
 
-Made with [Kicad](https://kicad-pcb.org/)
+Made with [Kicad](https://kicad.org/)
 
 ## Description
 A EEPROM card with 32kBytes of capacity and compatible with [MM1 standard](https://github.com/JonathSpirit/GComputer_standard).
